@@ -9,7 +9,7 @@ The goal was to apply **data cleaning, exploratory data analysis (EDA), and visu
 ---
 
 ## 🧰 Tools & Libraries Used  
-- **Python**: Pandas, NumPy, Matplotlib, Seaborn  
+- **Python**: Pandas, NumPy, Plotly  
 - **Jupyter Notebook** for coding and visualizations  
     
 ---
